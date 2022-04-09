@@ -1,0 +1,15 @@
+node_modules
+
+# zip folders
+*.zip
+
+# IDE files/folders
+.idea
+.vscode
+
+# env files
+.env
+
+
+# local files
+json_files/*
